@@ -1,0 +1,18 @@
+Group member:
+
+Yifan Tian 78921267
+Xufeng Bao 18446359
+
+Compile command: make (use ‘make clean’ to remove previous make)
+Run command: ./edit
+
+Which will automatically run edit function on 
+1. sample.txt
+2. Question1:  “x = electrical engineering, y = computer science” two strings
+3. Question2:	input1.txt, input2.txt, input3.txt
+At line 217, in main function, you can change input file.
+
+The result will be printed in terminal.
+
+For question 3. We use the std::list library to implement the linked list data structure to do the edit operations. In the edit.cpp, at line 39 we implement the linked list. 
+
